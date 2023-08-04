@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
+
 - 🔭 I’m currently working on [WallpaperNotes](https://github.com/Adityasingh9871/WallpaperNotes)
 
 - 🌱 I’m currently learning **Android Studio**
@@ -29,3 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityasingh9871&show_icons=true&locale=en" alt="adityasingh9871" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasingh9871&" alt="adityasingh9871" /></p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/aditya9871singh?theme=dark&font=Average%20Sans&ext=contest)
